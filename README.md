@@ -5,13 +5,13 @@
 
 </p>
 
-* 👋 Welcome to my GitHub profile! I am a Full-Stack Developer.
+* 👋 Welcome to my GitHub profile! I am a Front-End Developer.
 
-* 📖 I specialize in  JavaScript, Typescript, React, Java, Spring Boot and ExpressJS, and have experience working with a variety of frameworks and databases.
+* 📖 I specialize in  JavaScript, Typescript, React, Material UI.
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
-* 💻 Currently, I am specializing in React, Node.JS, Spring Boot and developing projects about it.
+* 💻 Currently, I am specializing in React and developing projects about it. 
 
 ### 🖥️ Open-Source Projects
 
