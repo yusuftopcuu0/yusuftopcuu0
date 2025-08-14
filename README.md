@@ -15,6 +15,11 @@
 
 ### 🖥️ Open-Source Projects
 
+#### <p align="center">Full-Stack React Projects</p>
+| **Title** | **Description** | **Technologies** | **Demo Links** |
+| --- | --- | --- | --- |
+| [My Games](https://github.com/yusuftopcuu0/my-games) | A website where players can store their game data(Refactored) | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=blue) ![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript&logoColor=blue) ![Material UI](https://img.shields.io/badge/Material%20UI-white?style=flat&logo=MUI) | [Demo](https://my-games.netlify.app/) |
+
 #### <p align="center">Frontend React Projects</p>
 | **Title** | **Description** | **Technologies** | **Demo Links** |
 | --- | --- | --- | --- |
