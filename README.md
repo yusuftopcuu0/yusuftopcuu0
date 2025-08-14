@@ -15,16 +15,6 @@
 
 ### 🖥️ Open-Source Projects
 
-#### <p align="center">Backend Projects</p>
-  
-| **Title** | **Description** | **Technologies** | **Demo Links** |
-| --- | --- | --- | --- |
-| [E-Commerce-Api](https://github.com/yusuftopcuu0/e-commerce-api)|E-Commerce API with Spring Boot| ![Java](https://img.shields.io/badge/Java-black?style=flat&logo=coffeescript&logoColor=Orange) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?style=flat&logo=spring&logoColor=green) ![Postgresql](https://img.shields.io/badge/Postgresql-black?style=flat&logo=postgresql&logoColor=Blue&color=black) | [Demo](https://e-commerce-rest-api-68700e98743e.herokuapp.com/swagger-ui/index.html#) |
-| [Gallerist](https://github.com/yusuftopcuu0/gallerist)|Gallerist Application with Spring Boot| ![Java](https://img.shields.io/badge/Java-black?style=flat&logo=coffeescript&logoColor=Orange) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?style=flat&logo=spring&logoColor=green) ![Postgresql](https://img.shields.io/badge/Postgresql-black?style=flat&logo=postgresql&logoColor=Blue&color=black) | No Demo |
-| [Spring Boot Tutorials](https://github.com/yusuftopcuu0/spring-boot-tutorials)|Multi Tutorial Projects with Spring Boot| ![Java](https://img.shields.io/badge/Java-black?style=flat&logo=coffeescript&logoColor=Orange) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?style=flat&logo=spring&logoColor=green) ![Postgresql](https://img.shields.io/badge/Postgresql-black?style=flat&logo=postgresql&logoColor=Blue&color=black) | No Demo |
-| [My Games - Backend](https://github.com/yusuftopcuu0/my-games-backend)|Backend application for my games with MongoDB database | ![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript&logoColor=blue) ![Express JS](https://img.shields.io/badge/ExpressJS-black?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=green) ![AWS](https://img.shields.io/badge/Amazon%20Web%20Service-orange?logo=amazonwebservices&logoColor=orange&color=black) ![IGDB](https://img.shields.io/badge/IGDB-white?logo=igdb&logoColor=white&color=purple)| No Demo |
-| [Q&A Rest Api](https://github.com/yusuftopcuu0/Question-Answer-Rest-Api)|Basic Backend Project with Express JS and MongoDB | ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow) ![Express JS](https://img.shields.io/badge/ExpressJS-black?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=green)| No Demo |
-
 #### <p align="center">Frontend React Projects</p>
 | **Title** | **Description** | **Technologies** | **Demo Links** |
 | --- | --- | --- | --- |
